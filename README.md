@@ -3,7 +3,9 @@
 Get more examples of what contents to put inside these directories from:
 
 - https://github.com/przbadu/pocket-pick
-- YouTube video: https://www.youtube.com/watch?v=hGg3nWp7afg
+
+[![Agentic Claude Code : 3 Codebase Folders for TOP 1% AI Coding](https://img.youtube.com/vi/hGg3nWp7afg/0.jpg)](https://www.youtube.com/watch?v=hGg3nWp7afg)
+
 
 ## 1. ai-docs
 
